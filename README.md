@@ -11,9 +11,9 @@
 
 
 
-🔭 I am a Front-end developer and am good at learning new staff
+🔭 I am a Fullstack 
 
-👯 I’m looking for collaboration on UI/UX project
+👯 I’m looking for collaboration on Full stack 
 
 🤝 Inbox me: promesseirakoze10@gmail.com
 
